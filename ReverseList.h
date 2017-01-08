@@ -6,7 +6,7 @@
 
 #include"SqlList.h"
 
-//面试题1：头插法逆序单链表
+//面试题1：头插法逆置单链表
 void ReverseList(PNode* head)
 {
 	PNode pre = *head;
